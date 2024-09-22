@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/onClick-events-react/static/css/main.6c5e40d5.css",
+    "main.js": "/onClick-events-react/static/js/main.681cb02b.js",
+    "index.html": "/onClick-events-react/index.html",
+    "main.6c5e40d5.css.map": "/onClick-events-react/static/css/main.6c5e40d5.css.map",
+    "main.681cb02b.js.map": "/onClick-events-react/static/js/main.681cb02b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6c5e40d5.css",
+    "static/js/main.681cb02b.js"
+  ]
+}
