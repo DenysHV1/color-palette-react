@@ -1,14 +1,7 @@
 @import-normalize;
 
-@import './components/Modal/Modal.css';
-
-@import './components/Clicker/Clicker.css';
-
-@import './components/Block/Block.css';
-
 @import './components/ColorPicker/ColorPicker.css';
 
-@import './components/BottomMenu/BottomMenu.css';
 
 body {
   margin: 0;
@@ -32,4 +25,11 @@ code {
   align-items: center;
   justify-content: center;
   gap: 20px;
+}
+
+.container {
+	max-width: 1260px;
+	padding-left: 30px;
+	padding-right: 30px;
+	margin: 0 auto;
 }
