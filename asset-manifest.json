@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/onClick-events-react/static/css/main.6c5e40d5.css",
-    "main.js": "/onClick-events-react/static/js/main.681cb02b.js",
+    "main.css": "/onClick-events-react/static/css/main.648a2c9d.css",
+    "main.js": "/onClick-events-react/static/js/main.3580ffa8.js",
     "index.html": "/onClick-events-react/index.html",
-    "main.6c5e40d5.css.map": "/onClick-events-react/static/css/main.6c5e40d5.css.map",
-    "main.681cb02b.js.map": "/onClick-events-react/static/js/main.681cb02b.js.map"
+    "main.648a2c9d.css.map": "/onClick-events-react/static/css/main.648a2c9d.css.map",
+    "main.3580ffa8.js.map": "/onClick-events-react/static/js/main.3580ffa8.js.map"
   },
   "entrypoints": [
-    "static/css/main.6c5e40d5.css",
-    "static/js/main.681cb02b.js"
+    "static/css/main.648a2c9d.css",
+    "static/js/main.3580ffa8.js"
   ]
 }
