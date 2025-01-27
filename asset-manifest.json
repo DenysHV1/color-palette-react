@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/color-palette-react/static/css/main.648a2c9d.css",
-    "main.js": "/color-palette-react/static/js/main.3580ffa8.js",
+    "main.css": "/color-palette-react/static/css/main.d488bf2e.css",
+    "main.js": "/color-palette-react/static/js/main.f470bf65.js",
     "index.html": "/color-palette-react/index.html",
-    "main.648a2c9d.css.map": "/color-palette-react/static/css/main.648a2c9d.css.map",
-    "main.3580ffa8.js.map": "/color-palette-react/static/js/main.3580ffa8.js.map"
+    "main.d488bf2e.css.map": "/color-palette-react/static/css/main.d488bf2e.css.map",
+    "main.f470bf65.js.map": "/color-palette-react/static/js/main.f470bf65.js.map"
   },
   "entrypoints": [
-    "static/css/main.648a2c9d.css",
-    "static/js/main.3580ffa8.js"
+    "static/css/main.d488bf2e.css",
+    "static/js/main.f470bf65.js"
   ]
 }
