@@ -1,3 +1,8 @@
+export interface IColors {
+  color: string;
+  id: number;
+}
+
 export const colors = [
   {
     color: '#33ff8c',
